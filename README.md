@@ -1,4 +1,4 @@
-Live Pollin Website
+Live Polling Website
 
 
 https://live-polling-website.onrender.com
